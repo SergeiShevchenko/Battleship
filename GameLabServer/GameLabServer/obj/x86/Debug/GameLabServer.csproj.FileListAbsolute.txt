@@ -1,0 +1,16 @@
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\bin\Debug\GameLabServer.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\bin\Debug\GameLabServer.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.exe
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\bin\Debug\GameLabServer.exe
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\bin\Debug\GameLabServer.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.Form1.resources
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.Properties.Resources.resources
+C:\Users\ACER\Desktop\Portfolio\Games\Battleship\GameLabServer\GameLabServer\obj\x86\Debug\GameLabServer.csproj.GenerateResource.Cache

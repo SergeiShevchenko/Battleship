@@ -1,0 +1,8 @@
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\bin\Debug\GameLab.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\bin\Debug\GameLab.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\obj\x86\Debug\GameLab.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\obj\x86\Debug\GameLab.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\obj\x86\Debug\GameLab.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\obj\x86\Debug\GameLab.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\obj\x86\Debug\GameLab.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Inst\Nets\GameLab\GameLab\obj\x86\Debug\GameLab.pdb
